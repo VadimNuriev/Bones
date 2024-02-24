@@ -1,0 +1,15 @@
+.Gallery {
+height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.Gallery__list {
+    display: flex;
+}
+
+.Gallery__photo {
+    width: 400px;
+}
